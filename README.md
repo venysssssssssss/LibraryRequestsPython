@@ -19,3 +19,11 @@
 - Ao enviar uma solicitação de um script Python ou uma solicitação dentro de um app Web, caberá a você - o desenvolvedor - decidir o que será enviado em cada solicitação e o que será feito com a respectiva resposta. Assim, vamos explorar isso enviando primeiro uma solicitação para o Scotch.io e, depois, usando uma API de tradução de idiomas.
 
 ## Contents <!-- omit in toc -->
+- [1. Comandos básicos](#1-comandos-basicos)
+  - [1.1 Abrindo uma pasta](#11-abrindo-uma-pasta)
+  - [1.2 Criando uma pasta](#12-criando-uma-pasta)
+  - [1.3 Criando um arquivo](#13-criando-um-arquivo)
+  - [1.4 Movendo um arquivo](#14-movendo-um-arquivo)
+  - [1.5 Copiando um arquivo](#15-copiando-um-arquivo)
+  - [1.6 Removendo um arquivo](#16-removendo-um-arquivo)
+- [2. Comandos linux](#2-comandos-linux)
