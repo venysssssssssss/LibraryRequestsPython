@@ -21,7 +21,7 @@
 ## Contents <!-- omit in toc -->
 - [1. Visão geral rápida de solicitações HTTP](#1-visao-geral)
 - [2. Instalar a Requests do Python](#2-comandos-linux)
-- [3. Primeira solicitação](#3-comandos-linux)
+- [3. Primeira solicitação](#3-primeira-solicitacao)
 - [4. Códigos de Status](#4-comandos-linux)
 - [5. Cabeçalhos](#5-comandos-linux)
 - [6. Texto de resposta](#6-comandos-linux)
