@@ -27,7 +27,7 @@
 - [6. Texto de resposta](#6-comandos-linux)
 - [7. Usando a API de tradução](#7-comandos-linux)
 - [8. Casos de erro da API de tradução](#8-comandos-linux)
-- [9. Conclusão](#9-conclusão-rep)
+- [9. Conclusão](#9-conclusão)
 
 
 ## 1. Visão geral rápida de solicitações HTTP
