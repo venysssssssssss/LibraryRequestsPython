@@ -8,4 +8,4 @@
 
 - Uma vez que o uso de uma API implica em enviar solicitações HTTP e receber respostas, a biblioteca Requests permite que você utilize APIs no Python. Vamos demonstrar o uso de uma API de tradução de idioma aqui para você veja um um exemplo de como ela funciona.
 
-- [1. ]
+## Visão geral rápida de solicitações HTTP <!-- omit in toc -->
