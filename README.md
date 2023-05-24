@@ -20,13 +20,13 @@
 
 ## Contents <!-- omit in toc -->
 - [1. Visão geral rápida de solicitações HTTP](#1-visão-geral-rápida-de-solicitações-http)
-- [2. Instalar a Requests do Python](#2-comandos-linux)
+- [2. Instalar a Request do Python](#2-instalar-a-request-do-python)
 - [3. Primeira solicitação](#3-primeira-solicitação)
-- [4. Códigos de Status](#4-comandos-linux)
-- [5. Cabeçalhos](#5-comandos-linux)
-- [6. Texto de resposta](#6-comandos-linux)
-- [7. Usando a API de tradução](#7-comandos-linux)
-- [8. Casos de erro da API de tradução](#8-comandos-linux)
+- [4. Códigos de Status](#4-códigos-de-status)
+- [5. Cabeçalhos](#5-cabeçalhos)
+- [6. Texto de resposta](#6-texto-de-resposta)
+- [7. Usando a API de tradução](#7-usando-a-api-de-tradução)
+- [8. Casos de erro da API de tradução](#8-casos-de-erro-da-api-de-tradução)
 - [9. Conclusão](#9-conclusão)
 
 
