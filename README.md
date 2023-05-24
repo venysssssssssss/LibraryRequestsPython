@@ -28,3 +28,27 @@
 - [7. Usando a API de tradução](#7-comandos-linux)
 - [8. Casos de erro da API de tradução](#8-comandos-linux)
 - [9. Conclusão](#9-conclusão-rep)
+
+
+## 1. Visão geral rápida de solicitações HTTP
+- As solicitações HTTP consistem na maneira como a Web funciona. Toda vez que você navega para uma página Web, seu navegador realiza várias solicitações para o servidor da página da Web. Então, o servidor responde com todos os dados necessários para renderizar a página e, na sequência, o seu navegador renderiza a página para que a veja.
+
+- O processo genérico é o que segue: um cliente (como um navegador ou um script Python usando as Requests) enviará alguns dados para um URL e, em seguida, o servidor localizado no URL irá ler os dados, decidir o que fazer com os dados e retornar uma resposta para o cliente. Por fim, o cliente pode decidir o que fazer com os dados na resposta.
+
+- Parte dos dados que o cliente envia em uma solicitação representa o método da solicitação. Alguns métodos de solicitação comuns são o GET, POST e o PUT. Normalmente, as solicitações GET são somente para leitura de dados, sem alterar nada, ao passo que as solicitações POST e PUT são geralmente usadas para modificar os dados no servidor. Por exemplo, a API Stripe permite que você utilize as solicitações POST para criar uma nova cobrança para que um usuário possa comprar algo do seu app.
+
+## 2. Instalar a Requests do Python
+
+## 3. Primeira solicitação
+
+## 4. Códigos de Status
+
+## 5. Cabeçalhos
+
+## 6. Texto de resposta
+
+## 7. Usando a API de tradução
+
+## 8. Casos de erro da API de tradução
+
+## 9. Conclusão
