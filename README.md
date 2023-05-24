@@ -41,10 +41,12 @@
 
 ## 2. Instalar a Requests do Python
 - Antes de fazermos qualquer coisa, precisamos instalar a biblioteca. Assim, vamos prosseguir com a instalação da requests, usando o pip. Se você ainda não tiver um ambiente virtual, é uma boa ideia criar um primeiro.
+
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/e1140c51-5751-4da7-9d78-9bb1871f171c)
  
 ## 3. Primeira solicitação
 - Para começar, vamos usar a Requests para solicitar o site Scotch.io. Crie um arquivo chamado script.py e adicione o seguinte código a ele. Neste artigo, não teremos muito código para trabalhar, de modo que, quando algo mudar, você somente poderá atualizar o código existente, em vez de adicionar novas linhas.
+
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/d1ba05ae-e718-47e4-b92f-15f6ccdc0c43)
 
 - Dessa forma, tudo o que esse código está fazendo é enviar uma solicitação GET para o Scotch.io. Esse é o mesmo tipo de solicitação que o seu navegador enviou para visualizar essa página. A única diferença, porém, é que a biblioteca Requests, na verdade, não consegue processar páginas em HTML. Assim, em vez de processar a página, você receberá apenas o HTML bruto e outras informações de resposta.
@@ -52,8 +54,11 @@
 - Estamos usando a função .get() aqui, mas a Requests permite que você utilize outras funções, como .post() e .put() para também enviar essas solicitações.
 
 - Você pode executá-la executando o arquivo script.py.
+
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/cf245c9f-a5cc-4c0a-8faf-4220ec6ab13d)
+
 Aqui está o que você recebe como resultado:
+
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/a6f733b4-6636-47be-b0c7-355cdec6b0e4)
 
 ## 4. Códigos de Status
