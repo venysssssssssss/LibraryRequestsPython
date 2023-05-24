@@ -20,7 +20,7 @@
 
 ## Contents <!-- omit in toc -->
 - [1. Visão geral rápida de solicitações HTTP](#1-visão-geral-rápida-de-solicitações-http)
-- [2. Instalar a Request do Python](#2-instalar-a-Request-do-Python)
+- [2. Instalar a Requests do Python](#2-instalar-a-Requests-do-Python)
 - [3. Primeira solicitação](#3-primeira-solicitação)
 - [4. Códigos de Status](#4-códigos-de-status)
 - [5. Cabeçalhos](#5-cabeçalhos)
