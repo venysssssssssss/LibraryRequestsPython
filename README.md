@@ -101,6 +101,8 @@ Aqui está o que você recebe como resultado:
 
 ## 6. Texto de resposta
 
+- 
+
 ## 7. Usando a API de tradução
 
 ## 8. Casos de erro da API de tradução
