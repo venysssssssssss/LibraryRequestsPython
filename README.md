@@ -87,6 +87,7 @@ Aqui está o que você recebe como resultado:
 ## 5. Cabeçalhos
 
 - Outra coisa que você pode receber da resposta são os cabeçalhos. Você pode verificá-los usando o dicionário de cabeçalhos no objeto de resposta.
+
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/c1f31fb0-1ec2-444b-b3f2-4c958e246c01)
 
 
