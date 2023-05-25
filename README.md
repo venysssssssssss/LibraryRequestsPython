@@ -86,6 +86,8 @@ Aqui está o que você recebe como resultado:
 
 ## 5. Cabeçalhos
 
+-Outra coisa que você pode receber da resposta são os cabeçalhos. Você pode verificá-los usando o dicionário de cabeçalhos no objeto de resposta.
+
 ## 6. Texto de resposta
 
 ## 7. Usando a API de tradução
