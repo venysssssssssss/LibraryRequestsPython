@@ -8,15 +8,6 @@
 
 - Uma vez que o uso de uma API implica em enviar solicitações HTTP e receber respostas, a biblioteca Requests permite que você utilize APIs no Python. Vamos demonstrar o uso de uma API de tradução de idioma aqui para você veja um exemplo de como ela funciona.
 
-## Visão geral rápida de solicitações HTTP <!-- omit in toc -->
-
-- As solicitações HTTP consistem na maneira como a Web funciona. Toda vez que você navega para uma página Web, seu navegador realiza várias solicitações para o servidor da página da Web. Então, o servidor responde com todos os dados necessários para renderizar a página e, na sequência, o seu navegador renderiza a página para que a veja.
-
-- O processo genérico é o que segue: um cliente (como um navegador ou um script Python usando as Requests) enviará alguns dados para um URL e, em seguida, o servidor localizado no URL irá ler os dados, decidir o que fazer com os dados e retornar uma resposta para o cliente. Por fim, o cliente pode decidir o que fazer com os dados na resposta.
-
-- Parte dos dados que o cliente envia em uma solicitação representa o método da solicitação. Alguns métodos de solicitação comuns são o GET, POST e o PUT. Normalmente, as solicitações GET são somente para leitura de dados, sem alterar nada, ao passo que as solicitações POST e PUT são geralmente usadas para modificar os dados no servidor. Por exemplo, a API Stripe permite que você utilize as solicitações POST para criar uma nova cobrança para que um usuário possa comprar algo do seu app.
-
-- Ao enviar uma solicitação de um script Python ou uma solicitação dentro de um app Web, caberá a você - o desenvolvedor - decidir o que será enviado em cada solicitação e o que será feito com a respectiva resposta. Assim, vamos explorar isso enviando primeiro uma solicitação para o Scotch.io e, depois, usando uma API de tradução de idiomas.
 
 ## Contents <!-- omit in toc -->
 - [1. Visão geral rápida de solicitações HTTP](#1-visão-geral-rápida-de-solicitações-http)
