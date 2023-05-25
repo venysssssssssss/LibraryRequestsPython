@@ -90,6 +90,14 @@ Aqui está o que você recebe como resultado:
 
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/c1f31fb0-1ec2-444b-b3f2-4c958e246c01)
 
+![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/bfa779f4-fdc8-4793-a856-46e0813431b2)
+
+- Os cabeçalhos são enviados com a solicitação e retornados na resposta. Os cabeçalhos são usados para que o cliente e o servidor saibam como interpretar os dados que estão sendo enviados e recebidos na solicitação/resposta
+
+- Nós conseguimos ver os diversos cabeçalhos que são retornados. Muitas vezes você não precisará usar as informações do cabeçalho diretamente, mas elas ficarão disponíveis, caso precise delas.
+
+- Normalmente, o tipo de conteúdo é aquele que você pode precisar, pois ele revela o formato dos dados, por exemplo, HTML, JSON, PDF, texto, etc. O tipo de conteúdo, porém, é normalmente tratado pelas Requests para que você possa acessar os dados que são retornados.
+
 
 ## 6. Texto de resposta
 
