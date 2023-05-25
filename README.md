@@ -54,39 +54,39 @@ Aqui está o que você recebe como resultado:
 
 ## 4. Códigos de Status
 
--A primeira coisa que podemos fazer é verificar o código de status. Os códigos HTTP variam de 1XX a 5XX. Os códigos de status comuns que você provavelmente viu são 200, 404 e 500.
+- A primeira coisa que podemos fazer é verificar o código de status. Os códigos HTTP variam de 1XX a 5XX. Os códigos de status comuns que você provavelmente viu são 200, 404 e 500.
 
--Aqui está uma visão geral rápida do que cada código de status significa:
+- Aqui está uma visão geral rápida do que cada código de status significa:
 
--1XX - Informação
--2XX - Sucesso
--3XX - Redirecionar
--4XX - Erro de cliente (você cometeu um erro)
--5XX - Erro de servidor (eles cometeram um erro)
--Geralmente, o que você está procurando ao realizar suas próprias solicitações são os códigos de status próximos do código 200.
+- 1XX - Informação
+- 2XX - Sucesso
+- 3XX - Redirecionar
+- 4XX - Erro de cliente (você cometeu um erro)
+- 5XX - Erro de servidor (eles cometeram um erro)
+- Geralmente, o que você está procurando ao realizar suas próprias solicitações são os códigos de status próximos do código 200.
 
--A Requests reconhece que os códigos de status 4XX e 5XX são erros. Assim, se esses códigos de status forem retornados, significa que o objeto de resposta da solicitação retorna False.
+- A Requests reconhece que os códigos de status 4XX e 5XX são erros. Assim, se esses códigos de status forem retornados, significa que o objeto de resposta da solicitação retorna False.
 
--Você pode testar se uma solicitação respondeu com sucesso, verificando se a resposta é verdadeira. Por exemplo:
+- Você pode testar se uma solicitação respondeu com sucesso, verificando se a resposta é verdadeira. Por exemplo:
 
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/359187e3-2d6e-4129-ac4b-04d006cb8657)
 
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/d1805b2f-2d5e-4aa2-9ae7-3933f28824df)
 
--A mensagem “Houve falha na resposta” aparecerá apenas se um código de status de 400 ou 500 for retornado. Tente alterar o URL para algo sem sentido para ver a resposta falhar com um código 404.
+- A mensagem “Houve falha na resposta” aparecerá apenas se um código de status de 400 ou 500 for retornado. Tente alterar o URL para algo sem sentido para ver a resposta falhar com um código 404.
 
--Você pode verificar o código de status diretamente, adicionando:
+- Você pode verificar o código de status diretamente, adicionando:
 
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/93ab3208-18c1-42ad-ae23-322745ce6b26)
 
--Isso mostrará o código de status diretamente para que você mesmo possa verificar o número.
+- Isso mostrará o código de status diretamente para que você mesmo possa verificar o número.
 
 ![image](https://github.com/venysssssssssss/LibraryRequestsPython/assets/99450704/026965db-93ad-45ed-ba00-b44b72c28f68)
 
 
 ## 5. Cabeçalhos
 
--Outra coisa que você pode receber da resposta são os cabeçalhos. Você pode verificá-los usando o dicionário de cabeçalhos no objeto de resposta.
+- Outra coisa que você pode receber da resposta são os cabeçalhos. Você pode verificá-los usando o dicionário de cabeçalhos no objeto de resposta.
 
 ## 6. Texto de resposta
 
